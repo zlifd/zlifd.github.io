@@ -16,4 +16,4 @@ I am a final year undergraduate student from The Hong Kong University of Science
 Research Interests
 ======
 * FPGA-based acceleration
-* Deep learning
+* Deep learning in computer vision
