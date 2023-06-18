@@ -19,8 +19,8 @@ Education
 Work experience
 ======
 * Summer 2022-2023: Research Assistant (RA)
-  * HKUST
-  * Duties included: Research intern for my MPhil
+  * Integrated Circuit Design Center (ICDC), HKUST
+  * Duties included: Research intern for FPGA-based acceleration on 2D/3D CNN
   * Supervisor: Prof. Patrick YUE
 
 * Winter 2021-2022: Designed Engineer – Intern 
