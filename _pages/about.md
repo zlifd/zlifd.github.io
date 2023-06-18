@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, greeting from Zhengdong LI, Tony!"
+title: "Hello, greeting from Zhengdong LI, Tony:)"
 excerpt: "About me!"
 author_profile: true
 redirect_from: 
