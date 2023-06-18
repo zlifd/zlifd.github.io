@@ -33,6 +33,6 @@ Work experience
   
 Service and leadership
 ======
-* Spring 2022-2023: Student Helper
+* Spring 2022-2023 to now: Student Helper
   * Cheng Kar-Shun Robotics Institute (CKSRI), HKUST
   * Duties included: project introduction and demo to visitors (local high school, companies) with the aim of promoting the Robotic Institute (RI).
