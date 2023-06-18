@@ -28,16 +28,6 @@ Work experience
   * Duties included: Embedded system programming using RaspberryPI
 
 
-
-
-Publications
-======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-
-Coming soon :)
-
   
 Service and leadership
 ======
