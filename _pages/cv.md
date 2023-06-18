@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+=====
 Education
 ======
-* Master of Philosophy (MPhil) in Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST), starting from September 2023
-* Bachelor of Engineering (BEng) in Computer Engineering (CPEG) with minor in Mathematics, The Hong Kong University of Science and Technology (HKUST), 2023
+* MPhil in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, starting from Sept 2023
+* BEng in Computer Engineering with minor in Mathematics, The Hong Kong University of Science and Technology, Sept 2019 - Jun 2023
 
 
 
