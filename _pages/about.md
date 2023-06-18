@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-I am a final year undergraduate student from The Hong Kong University of Science and Technology (HKUST). I am going to start my MPhil at the Department of Electronic & Computer Engineering (ECE) in HKUST from the following September this year. 
+I am a final year undergraduate student from The Hong Kong University of Science and Technology (HKUST). I am going to start my MPhil at the Department of Electronic & Computer Engineering (ECE) in HKUST from the following September 2023, under the supervision of [Prof. Patrick YUE](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chik-patrick-yue-eepatrick)
 
 
 Research Interests
