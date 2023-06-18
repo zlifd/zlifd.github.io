@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* MPhil in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, starting from Sept 2023
-* BEng in Computer Engineering with minor in Mathematics, The Hong Kong University of Science and Technology, Sept 2019 - Jun 2023
+* MPhil in Electronic and Computer Engineering
+    The Hong Kong University of Science and Technology, starting from Sept 2023
+* BEng in Computer Engineering with minor in Mathematics
+    The Hong Kong University of Science and Technology, Sept 2019 - Jun 2023
 
 
 
