@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-=====
 Education
 ======
 * MPhil in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, starting from Sept 2023
