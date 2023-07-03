@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MPhil in Electronic and Computer Engineering
-    * The Hong Kong University of Science and Technology, starting from Sept 2023
+    * The Hong Kong University of Science and Technology, to start from Sept 2023
 * BEng in Computer Engineering with minor in Mathematics
     * The Hong Kong University of Science and Technology, Sept 2019 - Jun 2023
 
@@ -20,19 +20,23 @@ Education
 
 Work experience
 ======
-* Summer 2022-2023: Research Assistant (RA)
-  * Integrated Circuit Design Center (ICDC), HKUST
+* Research Assistant (RA): 2022-2023 Summer
+  * Optical Wireless Lab (OWL), HKUST
   * Duties included: Research intern for FPGA-based acceleration on 2D/3D CNN
   * Supervisor: Prof. Patrick YUE
 
-* Winter 2021-2022: Designed Engineer – Intern 
+* Designed Engineer – Intern: 2021-2022 Winter
   * Prodigy Electronics Limited
   * Duties included: Embedded system programming using RaspberryPI
 
 
-  
 Service and leadership
 ======
-* Spring 2022-2023 to now: Student Helper
+* Student Helper: 2022-2023 Spring to now
   * Cheng Kar-Shun Robotics Institute (CKSRI), HKUST
   * Duties included: project introduction and demo to visitors (local high school, companies) with the aim of promoting the Robotic Institute (RI).
+
+Awards
+======
+* Dean's List: 2022-2023 Spring
+* University Scholarship: 2019-2020
