@@ -38,5 +38,5 @@ Service and leadership
 
 Awards
 ======
-* Dean's List: 2022-2023 Spring
-* University Scholarship: 2019-2020
+* Dean's List, HKUST: 2022-2023 Spring
+* Dean of Engineering Scholarship, HKUST: 2019-2020
