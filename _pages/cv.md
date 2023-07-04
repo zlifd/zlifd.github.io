@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Note that the CV in this github page is just a brief summary only. 
+
 Education
 ======
 * MPhil in Electronic and Computer Engineering
