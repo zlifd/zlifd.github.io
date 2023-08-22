@@ -23,12 +23,12 @@ Education
 Work experience
 ======
 * Research Assistant (RA): 2022-2023 Summer
-  * Optical Wireless Lab (OWL), HKUST
+  * Optical Wireless Lab ([OWL](https://yuegroup.hkust.edu.hk/)), HKUST
   * Duties included: Research intern for FPGA-based acceleration on 2D/3D CNN
   * Supervisor: Prof. Patrick YUE
 
 * Designed Engineer – Intern: 2021-2022 Winter
-  * Prodigy Electronics Limited
+  * [Prodigy Electronics Limited](https://www.prodigyelectronics.com/)
   * Duties included: Embedded system programming using RaspberryPI
 
 
