@@ -17,4 +17,4 @@ I am currently a MPhil student in the Optical Wireless Lab ([OWL](https://yuegro
 Research Interests
 ======
 * FPGA-based acceleration on Neural Network 
-* Deep learning in computer vision
+* Deep Learning in Computer Vision
