@@ -8,7 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   //background-color: $background-color;
-  background-image: url(https://github.com/zlifd/zlifd.github.io/blob/master/images/background.jpg?raw=true);
+  background-image: "../images/background.jpg";
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
