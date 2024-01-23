@@ -10,12 +10,11 @@ location: "Hong Kong"
 
 Teaching Assistant (TA), 2023/24 Spring, Instructor: [Prof. Jianan QU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jianan-qu-eequ)
 
-Heading 1
+Course Description 
 ======
-fsdgds
+An introductory course in optics covering fundamentals of geometrical and physical optics. Topics
+include: review of geometrical optics, first order optical system and analysis, aberration, aperture
+and field stops; Basic wave theory, diffraction, interference, polarization, dispersion; fundamentals
+of optical instrumentation. Exclusion(s): PHYS 3038 Prerequisite(s): ELEC 2400
 
-Heading 2
-======
 
-Heading 3
-======
