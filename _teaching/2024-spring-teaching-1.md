@@ -2,7 +2,7 @@
 title: "ELEC4610 - Engineering Optics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-Spring-teaching-1
+permalink: /teaching/2024-spring-teaching-1
 venue: "HKUST, ECE Dept."
 date: 2024-01-31
 location: "Hong Kong"
