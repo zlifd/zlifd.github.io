@@ -1,17 +1,18 @@
 ---
-title: "xxx experience 1"
+title: "ELEC4610 - Engineering Optics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "HKUST, ECE Dept."
 date: 2014-01-01
-location: "City, Country"
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant (TA), 2023/24 Spring, Instructor: [Prof. Jianan QU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jianan-qu-eequ)
 
 Heading 1
 ======
+fsdgds
 
 Heading 2
 ======
