@@ -1,4 +1,4 @@
----
+1---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -25,7 +25,7 @@ Work experience
 * Research Assistant (RA): 2022-2023 Summer
   * Optical Wireless Lab ([OWL](https://yuegroup.hkust.edu.hk/)), HKUST
   * Duties included: Research intern for FPGA-based acceleration on 2D/3D CNN
-  * Supervisor: Prof. Patrick YUE
+  * Supervisor: [Prof. Patrick YUE](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chik-patrick-yue-eepatrick)
 
 * Designed Engineer – Intern: 2021-2022 Winter
   * [Prodigy Electronics Limited](https://www.prodigyelectronics.com/)
