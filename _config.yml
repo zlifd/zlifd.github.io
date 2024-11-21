@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhengdong LI"
+title                    : "ZHENGDONG LI"
 title_separator          : "-"
-name                     : &name "Zhengdong LI"
+name                     : &name "ZHENGDONG LI"
 description              : &description "personal description"
 url                      : https://zlifd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
