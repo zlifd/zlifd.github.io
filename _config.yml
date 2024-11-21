@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZHENGDONG LI"
+title                    : "Tony LI"
 title_separator          : "-"
-name                     : &name "ZHENGDONG LI"
+name                     : &name "Tony LI"
 description              : &description "personal description"
 url                      : https://zlifd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ZHENGDONG LI"
+  name             : "Tony LI"
   avatar           : "profile.png"
   bio              : "Electronic & Computer Engineering Enthusiast"
   location         : "Hong Kong SAR, China"
