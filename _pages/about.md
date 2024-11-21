@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Greeting from Zhengdong LI, Tony:)
+Hello! Greeting from ZHENGDONG LI, Tony:)
 =====
 I am currently a MSc student in Electronic Engineering from The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). Previously during my time at HKUST, I completed my BEng with major in Computer Engineering ([CPEG](https://cpeg.hkust.edu.hk/eng/programs/beng_4yr.html)) and minor in Mathematics. 
 
