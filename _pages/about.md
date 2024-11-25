@@ -14,7 +14,8 @@ I am currently a MSc student in Electronic Engineering from The Hong Kong Univer
 
 
 
-Research Interests
+Interests
 ======
 * FPGA-based acceleration on Convolutional Neural Network (CNN)
 * Deep Learning in Computer Vision
+* Embedded system programming for hardware
