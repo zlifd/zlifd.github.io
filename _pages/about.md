@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Greeting from Tony LI :)
 =====
-I am an Electronic & Computer Engineering Enthusiast, focusing on both software and hardware codesigns. I received my [B.Eng. in Computer Engineering](https://cpeg.hkust.edu.hk/eng/programs/beng_4yr.html) (CPEG) with a [Minor in Mathematics](https://www.math.hkust.edu.hk/ug/minor.php) from the [HKUST](https://hkust.edu.hk/) where I also completed my [M.Sc. in Electronic Engineering](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-eleg) continuously on campus in order to broaden my horizon.
+I am an Electronic & Computer Engineering enthusiast, focusing on both software and hardware codesigns. I received my [B.Eng. in Computer Engineering](https://cpeg.hkust.edu.hk/eng/programs/beng_4yr.html) (CPEG) with a [Minor in Mathematics](https://www.math.hkust.edu.hk/ug/minor.php) from the [HKUST](https://hkust.edu.hk/) where I also completed my [M.Sc. in Electronic Engineering](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-eleg) continuously on campus in order to broaden my horizon.
 
 
 
